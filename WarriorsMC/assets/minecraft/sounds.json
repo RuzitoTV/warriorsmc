@@ -1,0 +1,27 @@
+{
+        "custom.musicaambiente1": {
+		"sounds": [
+			"custom_sounds/musicaaambiente1"
+		]
+	},
+	"custom.musicaambiente2": {
+		"sounds": [
+			"custom_sounds/musicaaambiente2"
+		]
+	},
+	"custom.musicaambiente3": {
+		"sounds": [
+			"custom_sounds/musicaaambiente3"
+		]
+	},
+	"custom.purgamensaje": {
+		"sounds": [
+			"custom_sounds/purgamensaje"
+		]
+	},
+	"custom.purgasirena": {
+		"sounds": [
+			"custom_sounds/purgasirena"
+		]
+	}
+}
